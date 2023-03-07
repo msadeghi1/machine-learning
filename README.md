@@ -1,2 +1,2 @@
 # machine-learning
-codes for different types of learning algorithms.
+Python codes for different types of learning algorithms.
