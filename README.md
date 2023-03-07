@@ -1,2 +1,2 @@
 # machine-learning
-Acoolection of Python codes for different types of learning algorithms.
+a repository for different types of learning algorithms developed by myself using the python language.
