@@ -1,2 +1,0 @@
-In this code, the reinforcement learning algorithm is written and implemented on the cliff walking problem.
-
